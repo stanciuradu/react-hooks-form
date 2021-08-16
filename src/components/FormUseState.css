@@ -1,12 +1,12 @@
-.form-use-state{
-    width: 50%;
-    margin: 0 auto;
-    background-color: rgb(236, 161, 49);
+.form-use-state {
+  width: 50%;
+  margin: 0 auto;
+  background-color: rgb(236, 161, 49);
 }
-.form-use-state .form{
-    margin-top: 11rem;
+.form-use-state .form {
+  margin-top: 11rem;
 }
-.form-use-state .form-label{
-    font-size: 1.5rem;
-    font-weight: bold;
+.form-use-state .form-label {
+  font-size: 1.5rem;
+  font-weight: bold;
 }
